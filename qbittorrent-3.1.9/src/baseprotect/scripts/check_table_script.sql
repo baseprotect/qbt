@@ -1,0 +1,1 @@
+SELECT count(*) as count FROM sqlite_master WHERE type="table" AND name="hits";
